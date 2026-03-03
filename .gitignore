@@ -1,0 +1,21 @@
+# Archivos no relacionados con programacion_lineal_interactiva.py
+punto3.py
+Punto4.py
+verificacion_manual.py
+verificacion_simplex.py
+verificacion_final.py
+
+# Archivos generados por punto3.py
+iteracion_*.png
+solucion_optima_resumen.png
+comparacion_iteraciones.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller
+build/
+dist/
+*.spec
